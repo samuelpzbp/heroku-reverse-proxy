@@ -19,5 +19,5 @@
 			"description": "a Base64 encoded string of your poxy authentication if exists. e.g. 'Basic dGVzdHN0cmluZw==' instead of 'Basic username:password'"
 		}
 	},
-	"stack": "heroku-18"
+	"stack": "cedar-14"
 }
